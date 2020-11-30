@@ -13,6 +13,20 @@
 		"SELECTED" : "You selected {}",
 		"WELCOME_MESSAGE": "Welcome to {}. Input text is: {}"
 	},
+	"hi": {
+	    "ERROR_401": "ऐसा लगता है कि मैं Home Assistant तक पहुंचने के लिए अनधिकृत हूं, कृपया अपने खाते को लिंक करने या अपने लंबे समय तक उपयोग किए गए टोकन की जांच करें और पुन: प्रयास करें",
+		"ERROR_404": "ऐसा लगता है कि मैं input text इकाई को खोजने में सक्षम नहीं हो सकता। कृपया जांचें कि आपने इसे Home Assistant में जोड़ा है और फिर से प्रयास करें",
+		"ERROR_400": "Home Assistant से संवाद नहीं हो सका। custom skill Developer console में Amazon CloudWatch logs की जांच करें।",
+		"ERROR_ACOUSTIC": "क्षमा करें, मैं इसे समजी नहीं ... <break time='200ms'/> {}",
+		"ERROR_CONFIG": "क्षमा करें, मुझे परेशानी हो रही है, कृपया custom skill में अपने configuration की जांच करें और पुनः प्रयास करें।",
+		"ERROR_SPECIFIC_DATE": "क्षमा करें, मैं अभी विशिष्ट तिथियां नहीं कर सकता, इसके बजाय एक अवधि का प्रयास करें, जैसे ... 5 घंटे में",
+		"HELP_MESSAGE": "Home Assistant के माध्यम से ट्रिगर करते समय यह कौशल केवल प्रतिक्रियात्मक रूप से होना चाहिए।",
+		"OKAY": "ठीक है",
+		"SELECTED" : "आपने select किया {} ",
+		"SKILL_NAME": "Home Assistant क्रिया",
+		"STOP_MESSAGE": "अलविदा!",
+		"WELCOME_MESSAGE": "स्वागत है {}. input text है: {}"
+	},
 	"de": {
 	    "ERROR_401": "Ich habe scheinbar keine Berechtigungen für die verbindung zu home assistant. Bitte prüfe deinen H A Benutzer oder Access Token.",
 		"ERROR_404": "Ich kann kein input text Objekt in home assistant finden. Bitte überprüfe ob du dieses bereits hinzugefügt hast.",
