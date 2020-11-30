@@ -22,7 +22,7 @@
 		"ERROR_SPECIFIC_DATE": "क्षमा करें, मैं अभी विशिष्ट तिथियां नहीं कर सकता, इसके बजाय एक अवधि का प्रयास करें, जैसे ... 5 घंटे में",
 		"HELP_MESSAGE": "Home Assistant के माध्यम से ट्रिगर करते समय यह कौशल केवल प्रतिक्रियात्मक रूप से होना चाहिए।",
 		"OKAY": "ठीक है",
-		"SELECTED" : "आपने select किया {} ",
+		"SELECTED" : "आपने select किया {}",
 		"SKILL_NAME": "Home Assistant क्रिया",
 		"STOP_MESSAGE": "अलविदा!",
 		"WELCOME_MESSAGE": "स्वागत है {}. input text है: {}"
